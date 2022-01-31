@@ -16,10 +16,10 @@ You can find all the necessary data in the csv files provided.
 - The png files shows the visualizations taken from my Tableau Public Software used for the Analysis.
   You can find the Visualizations on the below link.
   
-  Link - https://public.tableau.com/app/profile/ashutosh.rajput/viz/Insights_Analysis-for_revenue-Udemy_Courses/Main-Analysis
+  Link - https://public.tableau.com/app/profile/ashutosh.rajput/viz/Analysis_edX-Courses/Dashboard1
   
   
-- Read the report - Analysis_Udemy-Courses-Report.pdf
+- Read the report - edX_courses-Analysis.pdf
 
 ####  The report will give the information regarding the business goal, work done by me and suggestions to the business problem.
   
